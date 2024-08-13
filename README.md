@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-chat-on-desk-9061339-7397957.gif"  />
+  <img height="200" src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-chat-on-desk-9061339-7397957.gif"  />
 
 <!--  https://cdn.dribbble.com/users/1319343/screenshots/14584578/media/0a63d314f0c5141774fc31e22b504a58.gif--!>
 <h1 align="center">Hi 👋, I'm Ilakkiya s</h1>
